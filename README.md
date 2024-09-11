@@ -1,5 +1,5 @@
 # Seja Bem vindo ao meu Github
-#### Me chamdo Jefferson, tenho 23 anos, sou Técnico em Informática e estou cursando Análise e Desenvolvimento de Sistemas.
+#### Me chamo Jefferson, tenho 23 anos, sou Técnico em Informática e estou cursando Análise e Desenvolvimento de Sistemas.
 #### Amo Tecnologia desde criança e estou em busca de novos conhecimentos e oportunidades para evoluir profissionalmente.
 
 ## Contatos
